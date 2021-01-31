@@ -1,5 +1,5 @@
 ### Hi im Jens
-24 years old. Living in Copenhagen, Denmark
+24 years old. Living in Aalborg, Denmark
 
 I work on multiple projects currently, here is some of them
 
