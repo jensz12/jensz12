@@ -1,6 +1,6 @@
 ### Hi im Jens.
-26 years old. Living in Copenhagen, Denmark.
-I do 2nd level support at one.com for a living.
+26 years old. Living in Copenhagen, Denmark.</br>
+I do 2nd level technical support at [one.com](https://one.com) for a living.
 
 I work on multiple projects currently, here is some of them.
 
